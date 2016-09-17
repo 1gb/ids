@@ -143,6 +143,11 @@ textarea {
      background-color: beige;
    }
 
+   .item {
+     padding: 2em;
+     /*margin: -2em; */
+   }
+
    .redacted {
      color: black;
      background-color: black;
